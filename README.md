@@ -5,6 +5,7 @@
     <img alt="Version" src="https://img.shields.io/badge/Version-4.1.2-green" />
     <img alt="Updated On" src="https://img.shields.io/badge/Updated%20On-April%202026-blue" />
     <img alt="Released On" src="https://img.shields.io/badge/Released%20On-December%202025-orange" />
+    <img alt="Open VSX Downloads (version)" src="https://img.shields.io/open-vsx/dt/iNandi/prompilot/4.1.2">
   </p>
 </div>
 
